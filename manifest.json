@@ -24,7 +24,9 @@
       "https://www.amazon.com/b?node=*",
       "https://www.primevideo.com/region/*/detail/*",
       "https://www.primevideo.com/*/*/region/*/detail/*",
-      "https://www.primevideo.com/detail/*"
+      "https://www.primevideo.com/detail/*",
+      "https://www.primevideo.com/storefront/*",
+      "https://www.primevideo.com/dp/*"
     ],
     "run_at": "document_start",
     "js": [
